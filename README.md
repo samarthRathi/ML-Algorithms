@@ -9,14 +9,6 @@ This project demonstrates the **mathematical workings of Linear Regression** usi
 
 ---
 
-## 📸 Demo
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-screenshot.png" alt="Streamlit Linear Regression Demo" width="600"/>
-</p>
-
----
-
 ## 📦 Requirements
 
 Install the dependencies before running the app:
